@@ -66,6 +66,7 @@ color:#434455 ;
 /*=============/MAIN STYLES================*/
 .hero-section {
     background-color: #2E2F42;
+
 }
 .hero-title {
     color: #FFFFFF;
@@ -77,7 +78,7 @@ color:#434455 ;
 }
 .hero-button {
     color: #FFFFFF;
-    background-color: #4D5AE5;
+    background-color: #404BBF;
     font-size: 16px;
     font-weight: 500;
     line-height: 1.5; /* 150% */
@@ -101,6 +102,10 @@ color:#434455 ;
 .team-section {
     background-color: #F4F4FD;
 }
+.team-item {
+    background-color: #FFFFFF;
+}
+
 .section-title {
     color: #2E2F42;
     text-align: center;
