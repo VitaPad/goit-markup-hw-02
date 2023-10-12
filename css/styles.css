@@ -66,7 +66,6 @@ color:#434455 ;
 /*=============/MAIN STYLES================*/
 .hero-section {
     background-color: #2E2F42;
-
 }
 .hero-title {
     color: #FFFFFF;
@@ -78,12 +77,15 @@ color:#434455 ;
 }
 .hero-button {
     color: #FFFFFF;
-    background-color: #404BBF;
+    background-color: #4D5AE5;
     font-size: 16px;
     font-weight: 500;
     line-height: 1.5; /* 150% */
     letter-spacing: 0.04em;
 }
+.hero-button:hover,
+.hero-button:focus {
+    color: #404BBF;
 
 .advantages-title {
     color: #2E2F42;
