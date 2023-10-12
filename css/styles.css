@@ -126,13 +126,16 @@ color:#434455 ;
 
 /*=============FOOTER STYLES================*/
 .footer-logo {
-    color: #F4F4FD;
+    color: #4d5ae5 ;
     font-family: 'Raleway', sans-serif;
     font-size: 18px;
     font-weight: 700;
-    line-height: 1.16; /* 116.667% */
+    line-height: 1.17; /* 116.667% */
     letter-spacing: 0.03em;
     text-transform: uppercase;
+}
+.footer-accent{
+    color: #F4F4FD;
 }
 .footer-text {
     color: #F4F4FD;
